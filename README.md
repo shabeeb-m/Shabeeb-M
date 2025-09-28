@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shabeeb Mon M
+## Hi there 👋 I'm Shabeeb Mon.M
 
 I am a Data Science Engineer with expertise in analyzing and processing large-scale datasets, creating interactive dashboards, and building automated workflows to support business decision-making. Over the past year, I have worked extensively with Python, R, SQL, and Power BI to deliver actionable insights, improve reporting efficiency, and ensure data accuracy.
 
