@@ -1,5 +1,13 @@
 ## Hi there 👋 I'm Shabeeb Mon M
 
+I am a Data Science Engineer with expertise in analyzing and processing large-scale datasets, creating interactive dashboards, and building automated workflows to support business decision-making. Over the past year, I have worked extensively with Python, R, SQL, and Power BI to deliver actionable insights, improve reporting efficiency, and ensure data accuracy.
+
+I am passionate about transforming complex datasets into meaningful insights that drive business outcomes. I enjoy creating visualizations that tell clear stories, building automated processes that improve efficiency, and collaborating with stakeholders to ensure data delivers value. Whether it’s supporting energy-sector projects, optimizing workflows, or enhancing client-facing analytics, I thrive on solving problems and making an impact through data.
+
+In my current role, I monitor project databases to ensure data integrity and workflow efficiency, create detailed analytical visualizations in R, and design Power BI dashboards for client reporting. I also lead commercial streams, coordinating with clients and internal teams to streamline operations and ensure timely project delivery.
+
+My key strengths include developing automated workflows, delivering interactive dashboards, and translating complex data into actionable business insights. I am committed to continuous learning and expanding my expertise in data analytics and visualization, with the goal of creating impactful solutions that empower organizations to achieve better performance and growth.
+
 <!--
 **shabeeb-m/Shabeeb-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
