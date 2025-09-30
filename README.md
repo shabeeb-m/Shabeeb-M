@@ -51,7 +51,8 @@ Over the past year, I have worked extensively with **Python, R, SQL, and Power B
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shabeeb-m-600629225/)  
-- 📂 [GitHub Projects](https://github.com/)  
+- 📂 [GitHub Projects](https://github.com/)
+- 📄 [Naukri Profile](https://www.naukri.com/mnjuser/profile)  
 
 ---
 
