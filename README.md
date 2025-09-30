@@ -29,16 +29,13 @@ I am passionate about transforming complex datasets into meaningful insights tha
 ## 📊 Featured Projects
 
 * **[Energy-Sector Workflow Automation](#)**
-  Automated data pipelines and reporting workflows to streamline operations and ensure data accuracy.
+  Developed automated reports using R Markdown, reducing manual effort and improving accuracy
 
 * **[Interactive Power BI Dashboard](#)**
   Built client-facing dashboards for business performance monitoring, enabling data-driven decision-making.
 
 * **[R Shiny Analytics App](#)**
   Designed an application for interactive data visualization and reporting.
-
-* **[SQL Reporting Solutions](#)**
-  Developed SQL-based reports to monitor and ensure data integrity in project databases.
 
 ---
 
